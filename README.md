@@ -1,8 +1,3 @@
-# Argyros---Imersao-ALURA-Google
-Claro, aqui está a adição ao texto:
-
----
-
 # Argyros - Consultoria Financeira Automatizada
 
 **Programador:** Elias Leon Medeiros do Vale
