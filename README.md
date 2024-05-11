@@ -1,4 +1,4 @@
-# Argyros - Consultoria Financeira Automatizada
+# Argyros - O seu consultor amigo na B3!!
 
 **Programador:** Elias Leon Medeiros do Vale
 
