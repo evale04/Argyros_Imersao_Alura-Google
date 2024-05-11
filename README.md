@@ -13,8 +13,4 @@ Pedimos desculpas pela simplicidade do código, mas tivemos restrições de temp
 
 Este projeto faz parte da Imersão Alura + Google com apoio da FIAP, uma iniciativa que visa proporcionar experiências práticas em tecnologia e inteligência artificial.
 
-Por favor, sinta-se à vontade para contribuir e melhorar este projeto. Qualquer feedback é bem-vindo!
-
 ---
-
-Sinta-se à vontade para ajustar ou expandir conforme necessário!
