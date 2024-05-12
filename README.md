@@ -2,8 +2,6 @@
 
 **Programador:** Elias Leon Medeiros do Vale
 
-**Formação:** Graduando em Direito na PUC Minas e Ciência da Computação na UFMG.
-
 ---
 
 Bem-vindo ao Argyros, sua ferramenta de consultoria financeira automatizada! Este projeto faz parte da Imersão Alura + Google com apoio da FIAP, uma iniciativa que visa proporcionar experiências práticas em tecnologia e inteligência artificial.
